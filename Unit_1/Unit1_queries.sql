@@ -1,4 +1,6 @@
 UNIT-1: DBMS Installation and Database Design
+----------------------------------------------------------------------------------------------------------------
+
 Query 1: MySQL Installation on Windows
 Query Name: Step-by-Step MySQL Installation Process on Windows
 Query Code:
