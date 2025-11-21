@@ -1,4 +1,6 @@
 UNIT-2: Data Manipulation Language (DML) Commands
+--------------------------------------------------------------------------------------------------------------
+
 Query 3: Students Table DML Operations
 Query Name: Students Table Creation with INSERT, SELECT, UPDATE, DELETE
 Query Code:
